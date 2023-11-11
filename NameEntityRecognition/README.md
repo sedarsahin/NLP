@@ -43,7 +43,7 @@ https://dshub.gitbook.io/ds-hub/machine-learning/natural-language-processing/nam
 To run the tutorial code, follow these steps:
 
 1. Ensure you have Python installed along with the required libraries (`nltk`, `wikipediaapi`, `matplotlib`).
-2. Open the `ner_apple.py` file and execute it in a Python environment, or `ner_apple.ipynb` in Jupyter Notebook
+2. Open the `ner_apple.py` file and execute it in a Python environment, or `ner_apple.ipynb` in Jupyter Notebook.
 
 
 ## Contribution
