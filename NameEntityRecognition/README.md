@@ -60,7 +60,3 @@ Created by Sedar Sahin
 ## License
 
 This project is licensed under MIT. You're encouraged to use, modify, and share this content.
-
-Files
-ner_apple.py: Python script containing the tutorial code and exercises.
-ner_apple.ipynb: Python Notebook containing the tutorial code and exercises.
