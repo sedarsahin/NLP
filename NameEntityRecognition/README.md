@@ -27,7 +27,7 @@ text data, such as names of people, organizations, locations, etc. This tutorial
 The tutorial code is organized into sections, each corresponding to a specific step in the NER process. 
 Additionally, exercises are provided to further explore and experiment with the concepts presented in the tutorial.
 
-## Link to Step-by-Step
+## Link to Step-by-Step Guide
 
 https://dshub.gitbook.io/ds-hub/machine-learning/natural-language-processing/name-entity-recognition-ner
 
